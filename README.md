@@ -7,9 +7,6 @@
 ### Live Demo
 [Live Demo](https://open-projects.streamlit.app/)
 
-### YouTube
-[Watch the video](https://www.youtube.com/watch?v=YkPxL-XLM7I)
-
 
 # TARGET AUDIENCE
 
